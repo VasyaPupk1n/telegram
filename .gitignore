@@ -1,0 +1,10 @@
+
+/server/node_modules
+
+/client/node_modules
+/client/build
+
+/telegrambot/node_modules
+
+.idea
+.env
